@@ -183,7 +183,7 @@ Jubiläums-Konzert "*Der Töne Licht*", [Vierundeinzig](http://www.vierundeinzig
 ## Juli 2016
 
 ![Flyer](/assets/archiv/20160702_KaChor_Bischofshofen_Flyer.jpg){:class="flyer"}
-Chorkonzert mit dem Kammerchor Innsbruck (Lt. Martin Lindenthal) & dem ![Kammerchor Vox Cantabilis](http://www.voxcantabilis.com/) (Lt. Andreas Gassner), Pfarrkirche Bischofshofen
+Chorkonzert mit dem Kammerchor Innsbruck (Lt. Martin Lindenthal) & dem [Kammerchor Vox Cantabilis](http://www.voxcantabilis.com/) (Lt. Andreas Gassner), Pfarrkirche Bischofshofen
 
 ## Juni 2016
 
@@ -205,7 +205,7 @@ Der Kammerchor Innsbruck bekam am 26 Oktober 2015 im Rahmen des Tags der offenen
 Witness - Chortag des Tiroler Sängerbundes, Stadtsaal Kufstein und Congress Innsbruck
 
 ![Plakat](/assets/archiv/20151011_KaChor_Innstrumenti_Konzert_Goetzens_Plakat.jpg){:class="flyer"}
-Sakrale Musik unserer Zeit: Konzert mit dem Kammerorchester ![INNstrumenti](http://www.innstrumenti.at), Wallfahrtskirche Götzens
+Sakrale Musik unserer Zeit: Konzert mit dem Kammerorchester [INNstrumenti](http://www.innstrumenti.at), Wallfahrtskirche Götzens
 ([Postkarte](/assets/archiv/20151011_KaChor_und_Innstrumenti_Konzert_Goetzens_Postkarte.pdf))
 
 ## September 2015
