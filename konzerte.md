@@ -22,7 +22,7 @@ Programm:
 Mitwirkende:
 
 - Katharina Wegscheider (Sopran)
-- Bernhard Landauer (Alt)
+- Therese Troyer (Alt, krankheitsbedingt eingesprungen für Bernhard Landauer)
 - Simon Erasimus (Tenor)
 - Maximilian Schnabel (Bass)
 - Kaspar Singer (Barockcello)
@@ -66,7 +66,8 @@ Gesamtleitung: Christian Wegscheider
 
 Mitwirkende:
 
-- Anne Clausen (Sprecherin)
+- Anne Clausen (Sprecherin in Hall)
+- Kristoffer Nowak (Sprecher in Neustift)
 - Gabriele Enser (Klavier)
 - Lukas Duregger (Akkordeon)
 - Sebastian Willeit (Gitarre)
@@ -104,16 +105,13 @@ Konzerte "Evening Prayer", Stiftskirche Stams & Pfarrkirche Allerheiligen, Innsb
 Konzerte "Mittsommer oder Ruben Retegers Sommernachtsalptraum - chörig-literarisch"
 Kaiser Leopold Saal, Innsbruck & Schloss Landeck
 
-## April 2019
+## März / April 2019
 
 ![Flyer](/assets/archiv/201903_04_KaChor_Passionskonzerte_O_Vos_Omnes_Flyer.jpg){:class="flyer"}
 Passionskonzert "O Vos Omnes"
-Pfarrkirche Maria am Gestade, Sieglanger, Innsbruck
 
-## März 2019
-
-![Flyer](/assets/archiv/201903_04_KaChor_Passionskonzerte_O_Vos_Omnes_Flyer.jpg){:class="flyer"}
-Passionskonzert "O Vos Omnes", Stadtpfarrkirche Landeck
+31.3.2019, Stadtpfarrkirche Landeck und
+13.4.2019, Pfarrkirche Maria am Gestade, Sieglanger, Innsbruck
 
 ## Dezember 2018
 
@@ -149,6 +147,7 @@ Servitenkirche, Innsbruck
 ([Flyer](/assets/archiv/20171119_Flyer_Konzert_Ich_bin_eine_rufende_Stimme.PDF))
 
 ## August 2017
+
 Konzertreise nach Split, Kroatien
 
 ## Juli 2017
@@ -157,6 +156,7 @@ Innsbruck singt & Lange Nacht der Chöre
 ([Programm](/assets/archiv/20170701_Innsbruck_singt_2017_Programm.pdf))
 
 ## Juni 2017
+
 Messgestaltung, Alte Pfarrkirche, Landeck
 
 ## Mai 2017
@@ -167,7 +167,7 @@ Wallfahrtskirche St. Anna, St. Arbogast, Götzis
 
 ## März 2017
 
-Konzerte "Die Ihr Auf Diesem Wege Geht, Reutte (AT), Gries bei Bozen (IT)
+Konzert "Die Ihr Auf Diesem Wege Geht", Reutte und Gries bei Bozen
 ([Flyer](/assets/archiv/201703_KaChorIbk_Konzert_DieIhrAufDiesemWegeGeht_Gries_Reutte_Flyer.PDF))
 
 ## Dezember 2016
