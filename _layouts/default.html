@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang=de>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="icon" type="image/png" href="/assets/icon.svg">
+  </head>
+
+  <body>
+    <nav>
+      {% for item in site.data.navigation %}
+      <a href="{{ item.link }}"{% if page.url == item.link %} class="active"{% endif %}>{{ item.name }}</a>
+      {% endfor %}
+    </nav>
+
+    <!--
+    <img src="/assets/header.svg">
+    -->
+    <div class="header">
+      <h1>{{ page.title }}</h1>
+      <!--
+      <div class="border"></div>
+      <div class="border-small"></div>
+      -->
+    </div>
+
+    <div class="content">
+    {{ content }}
+    </div>
+
+    <div class="footer">
+      <a href="/"><img src="/assets/logo.svg" class="logo"></a>
+      <!--
+      <div class="border"></div>
+      -->
+      <p>✉️: <a href="mailto:info@kammerchorinnsbruck.at">info@kammerchorinnsbruck.at</a></p>
+      <a href="https://www.facebook.com/kammerchorinnsbruck"><img src="/assets/facebook.svg" class="social"></a>
+      <a href="https://www.instagram.com/kammerchorinnsbruck/"><img src="/assets/instagram.svg" class="social"></a>
+      <a href="https://www.youtube.com/@kammerchorinnsbruck8167"><img src="/assets/youtube.svg" class="social"></a>
+      <p><a href="/impressum">Impressum</a></p>
+    </div>
+  </body>
+</html>

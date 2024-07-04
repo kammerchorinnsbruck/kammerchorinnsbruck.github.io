@@ -1,0 +1,245 @@
+---
+title: Archiv
+---
+
+## Feber 2020
+
+Passions-Konzert "O Vos Omnes", Muri Gries & Bozen (IT)
+([Plakat](/assets/archiv/20200229_KaChor_Konzert_OVosOmnes_PlakatA3_BozenGries_ANSICHT.PDF))
+
+## November 2019
+
+Konzerte "Evening Prayer", Stiftskirche Stams & Pfarrkirche Allerheiligen, Innsbruck
+([Flyer](/assets/archiv/20191116_17_KaChor_Konzert_EveningPrayer_FlyerA5.pdf))
+
+## Juni 2019
+
+Konzerte "Mittsommer oder Ruben Retegers Sommernachtsalptraum - chörig-literarisch"
+Kaiser Leopold Saal, Innsbruck & Schloss Landeck
+
+## April 2019
+
+![Flyer](/assets/archiv/201903_04_KaChor_Passionskonzerte_O_Vos_Omnes_Flyer.jpg){:class="flyer"}
+Passionskonzert "O Vos Omnes"
+Pfarrkirche Maria am Gestade, Sieglanger, Innsbruck
+
+## März 2019
+
+![Flyer](/assets/archiv/201903_04_KaChor_Passionskonzerte_O_Vos_Omnes_Flyer.jpg){:class="flyer"}
+Passionskonzert "O Vos Omnes", Stadtpfarrkirche Landeck
+
+## Dezember 2018
+
+Adventskonzert "Ave Maria", Umhausen im Ötztal
+([Plakat](/assets/archiv/20181216_Konzert_AveMaria_2018_PlakatA3_ANSICHT.PDF))
+
+## Oktober 2018
+
+Messe von Igor Strawinsky mit dem Ensemble Windkraft unter der Leitung von Kasper de Roo, Wallfahrtskirche Götzens
+
+## Mai 2018
+
+Konzert "200 Jahre Musikverein"
+Innsbruck
+
+## März 2018
+
+* Tenebrae Konzerte "Die Ihr Auf Diesem Wege Geht", Pfarrkirche Landeck und Landschaftliche Pfarrkirche Mariahilf, Innsbruck
+([Flyer](/assets/archiv/201803_Konzert_DieIhrAufDiesemWegeGeht_Flyer.PDF),
+[Programmheft](/assets/archiv/201803_Konzert_DieIhrAufDiesemWegeGeht_ProgrammheftA5sw_ANSICHT.PDF))
+* Innsbrucker Passionssingen, Petrus-Canisius Kirche, Innsbruck
+([Programm](http://www.pfarre-petruscanisius.at/passionssingen.pdf))
+
+## Feber 2018
+
+Symphoniekonzert: Beethoven's Symphonie Nr. 9 in d-moll, op. 125, 
+gem. mit Tiroler Landestheater und Symphonieorchester Innsbruck
+
+## November 2017
+
+Konzert "Ich bin eine rufende Stimme"
+Servitenkirche, Innsbruck
+([Flyer](/assets/archiv/20171119_Flyer_Konzert_Ich_bin_eine_rufende_Stimme.PDF))
+
+## August 2017
+Konzertreise nach Split, Kroatien
+
+## Juli 2017
+
+Innsbruck singt & Lange Nacht der Chöre
+([Programm](/assets/archiv/20170701_Innsbruck_singt_2017_Programm.pdf))
+
+## Juni 2017
+Messgestaltung, Alte Pfarrkirche, Landeck
+
+## Mai 2017
+
+Konzert "Spaziergang: Der Gesang der Geister über den Wassern" 
+([Weitere Infos](http://wohin.vol.at/2017/musik-spaziergang-der-gesang-der-geister-ueber-den-wassern/goetzis)),
+Wallfahrtskirche St. Anna, St. Arbogast, Götzis
+
+## März 2017
+
+Konzerte "Die Ihr Auf Diesem Wege Geht, Reutte (AT), Gries bei Bozen (IT)
+([Flyer](/assets/archiv/201703_KaChorIbk_Konzert_DieIhrAufDiesemWegeGeht_Gries_Reutte_Flyer.PDF))
+
+## Dezember 2016
+
+* Benefizkonzert, Servitenkirche, Innsbruck
+* Adventskonzert, Hauskapelle des Jesuitenkollegs, Innsbruck
+
+## November 2016
+
+Jubiläums-Konzert "*Der Töne Licht*", [Vierundeinzig](http://www.vierundeinzig.at), Innsbruck
+([Flyer](/assets/archiv/20161113_Flyer_KammerchorIbk_Konzert_Der_Toene_Licht.PDF))
+
+## Juli 2016
+
+![Flyer](/assets/archiv/20160702_KaChor_Bischofshofen_Flyer.jpg){:class="flyer"}
+Chorkonzert mit dem Kammerchor Innsbruck (Lt. Martin Lindenthal) & dem ![Kammerchor Vox Cantabilis](http://www.voxcantabilis.com/) (Lt. Andreas Gassner), Pfarrkirche Bischofshofen
+
+## Juni 2016
+
+Herzjesu, Konzert mit den Silberstimmen, Schwaz, und Texten von Bischof Stecher, Jesuitenkirche, Innsbruck
+
+## März 2016
+
+Konzerte in See im Paznaun, Untermieming und Völs
+([Flyer](/assets/archiv/16_03_KammerchorIbk_Konzert_DieIhrAufDiesemWegeGeht_Flyer.pdf))
+
+## Dezember 2015
+
+Messgestaltung mit anschließendem Kurz-Konzert, Kirche Allerheiligen, Innsbruck
+
+## Oktober 2015
+
+Der Kammerchor Innsbruck bekam am 26 Oktober 2015 im Rahmen des Tags der offenen Tür in Innsbruck den Tiroler Landespreis für Chöre und Vokalensembles 2015 in der Sparte "Gemischter Chor" verliehen.
+
+Witness - Chortag des Tiroler Sängerbundes, Stadtsaal Kufstein und Congress Innsbruck
+
+![Plakat](/assets/archiv/20151011_KaChor_Innstrumenti_Konzert_Goetzens_Plakat.jpg){:class="flyer"}
+Sakrale Musik unserer Zeit: Konzert mit dem Kammerorchester ![INNstrumenti](http://www.innstrumenti.at), Wallfahrtskirche Götzens
+([Postkarte](/assets/archiv/20151011_KaChor_und_Innstrumenti_Konzert_Goetzens_Postkarte.pdf))
+
+## September 2015
+
+![Plakat](/assets/archiv/20150902_KaChor_Ischgl_Kirchenkonzert.jpg){:class="flyer"}
+Kirchenkonzert in Ischgl:
+Neue sakrale Chormusik mit Texten von Christoph Ransmayr, Pfarrkirche St. Nikolaus, Ischgl
+
+## August 2015
+
+![english](/assets/archiv/20150819_KaChor_Konzert_Plakat_Griechenland_en.jpg){:class="flyer"}
+![greek](/assets/archiv/20150819_KaChor_Konzert_Plakat_Griechenland_gr.jpg){:class="flyer"}
+Union of Greek Critics for Drama and Music 2014 Prize Concert:
+"Ich träum bei Tag und Nacht", Alexandroupolis, Griechenland
+
+## April 2015
+
+"Ich träum bei Tag und Nacht"
+([Programm](/assets/archiv/201504_KammerchorInnsbruck_Konzert_Ich_traeum_bei_Tag_und_Nacht_Plakat.pdf))
+
+## Jänner 2015
+
+3. Symphoniekonzert: Verdi Requiem, Congress Innsbruck
+([Rezension in TT](/assets/archiv/201501_VerdiRequiem_Rezension-tt-24-01-2015.pdf),
+[Rezension im Stadtblatt](/assets/archiv/201501_VerdiRequiem_Rezension-stadtblatt-28-01-2015.pdf))
+
+## September, Oktober, November 2014
+
+"World Without End. Amen."
+([Programm](/assets/archiv/201409_KammerchorInnsbruck_Konzert_WorldWithoutEndAmen_Programmheft_WEB.pdf))
+
+## März 2014
+
+"Von einem Licht ins andre gehn"
+([Programm](/assets/archiv/201403_KammerchorInnsbruck_VonEinemLichtZumAndern_WEB.pdf))
+
+## September 2013
+
+Konzertreise nach Gumpoldskirchen, Niederösterreich, anlässlich der Feier "150 Jahre Gumpoldskirchner Männerchor - MACH4 singt mit Österreich"
+
+## August 2013
+
+"Musik im Gottesdienst" im Rahmen der Festwochen der Alten Musik Innsbruck
+
+## Juni 2013
+
+"Musik im Schloss"
+([Flyer](/assets/archiv/20130609_Musik_im_Schloss_AMBRAS.PDF))
+
+## März 2013
+
+"Alleluia"
+([Programm](/assets/archiv/201303_KonzertAlleluja_Programmheft_WEB.pdf))
+
+## Juni 2012
+
+"Von Liebe..."
+([Flyer](/assets/archiv/12_06_Flyer_KammerchorIbk_VonLiebe.pdf))
+
+## Mai 2012
+
+"Nacht der Innsbrucker Chöre"
+
+## November 2011
+
+"Jubiläumskonzert - 10 Jahre Kammerchor Innsbruck"
+
+## Mai 2011
+
+"Ich hatte viel Bekümmernis"
+
+## Oktober 2010
+
+"150 Jahre TSB - König David"
+
+## Mai 2010
+
+"When David heard - Spiegelbilder der Seele"
+
+## Jänner 2010
+
+"Nord- grüßt Südamerika"
+
+## Juni 2009
+
+"Jeunesse Konzerte"
+
+## Oktober 2008
+
+"Nordlichter"
+
+## März 2008
+
+"Osterfestival 2008"
+
+## Jänner 2008
+
+"Mondklänge"
+
+## Oktober 2007
+
+"Himmel und Hölle"
+
+## Juni 2007
+
+"A capella Chorpolyphonie aus 5 Jahrhunderten"
+
+## Oktober 2006
+
+5 Jahre Kammerchor Innsbruck
+
+"Vox Populi"
+
+## April 2006
+
+"Requiem"
+
+## Mai 2006
+
+"Wachsamkeit"
+
+## Dezember 2005
+
+"In dulci jubilo"

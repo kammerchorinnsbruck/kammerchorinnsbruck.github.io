@@ -1,0 +1,10 @@
+- name: <img src="/assets/icon.svg"></img>
+  link: /
+- name: Chor
+  link: /chor/
+- name: Leitung
+  link: /leitung/
+- name: Konzerte
+  link: /konzerte/
+- name: Medien
+  link: /medien/
