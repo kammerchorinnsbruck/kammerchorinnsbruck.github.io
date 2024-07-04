@@ -228,7 +228,7 @@ Union of Greek Critics for Drama and Music 2014 Prize Concert:
 
 ## Jänner 2015
 
-3. Symphoniekonzert: Verdi Requiem, Congress Innsbruck
+Verdi-Requiem, Congress Innsbruck
 ([Rezension in TT](/assets/archiv/201501_VerdiRequiem_Rezension-tt-24-01-2015.pdf),
 [Rezension im Stadtblatt](/assets/archiv/201501_VerdiRequiem_Rezension-stadtblatt-28-01-2015.pdf))
 
