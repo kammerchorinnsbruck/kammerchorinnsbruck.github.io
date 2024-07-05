@@ -121,6 +121,34 @@ img.portrait {
   max-width: 100%;
 }
 
+.gallery {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+}
+
+.gallery > li {
+  position: relative;
+  flex: 0 0 100%;
+  scroll-snap-align: center;
+}
+
+.gallery > li > img {
+  margin: auto;
+  display: block;
+  max-height: 500px;
+  max-width: 100%
+}
+
+.gallery > li > button {
+  font-size: 42px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 .video {
   position: relative;
   width: 100%;

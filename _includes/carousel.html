@@ -1,0 +1,20 @@
+{% assign filter = include.filter %}
+{% assign files = site.static_files | where_exp: "item", "item.path contains filter" %}
+
+<ol class="gallery">{% for file in files %}
+  <li id="{{ filter }}{{ forloop.index }}">
+    {% if forloop.first %}
+      {% assign prev = forloop.length %}
+    {% else %}
+      {% assign prev = forloop.index | minus: 1 %}
+    {% endif %}
+    {% if forloop.last %}
+      {% assign next = 1 %}
+    {% else %}
+      {% assign next = forloop.index | plus: 1 %}
+    {% endif %}
+    <button onclick="jumpGallery('{{ filter }}{{ prev }}')" style="left :0">⬅️</button>
+    <img src="{{ file.path }}" loading="lazy">
+    <button onclick="jumpGallery('{{ filter }}{{ next }}')" style="right:0">➡️</button>
+  </li>
+{% endfor %}</ol>
