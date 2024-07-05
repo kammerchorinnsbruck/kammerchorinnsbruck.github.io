@@ -45,6 +45,7 @@ iframe {
 nav {
   position: sticky; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
+  z-index: 1; /* Prevent gallery to cover navbar */
   background-color: white;
   box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.1);
   width: 100%;
