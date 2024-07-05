@@ -115,8 +115,8 @@ Passionskonzert "O Vos Omnes"
 
 ## Dezember 2018
 
+[![Plakat](/assets/archiv/20181216_Konzert_AveMaria_2018_PlakatA3_ANSICHT.png){:class="flyer"}](/assets/archiv/20181216_Konzert_AveMaria_2018_PlakatA3_ANSICHT.PDF)
 Adventskonzert "Ave Maria", Umhausen im Ötztal
-([Plakat](/assets/archiv/20181216_Konzert_AveMaria_2018_PlakatA3_ANSICHT.PDF))
 
 ## Oktober 2018
 
@@ -142,9 +142,9 @@ gem. mit Tiroler Landestheater und Symphonieorchester Innsbruck
 
 ## November 2017
 
+[![Flyer](/assets/archiv/20171119_Flyer_Konzert_Ich_bin_eine_rufende_Stimme.png){:class="flyer"}](/assets/archiv/20171119_Flyer_Konzert_Ich_bin_eine_rufende_Stimme.PDF)
 Konzert "Ich bin eine rufende Stimme"
 Servitenkirche, Innsbruck
-([Flyer](/assets/archiv/20171119_Flyer_Konzert_Ich_bin_eine_rufende_Stimme.PDF))
 
 ## August 2017
 
@@ -167,18 +167,22 @@ Wallfahrtskirche St. Anna, St. Arbogast, Götzis
 
 ## März 2017
 
+[![Flyer](/assets/archiv/201703_KaChorIbk_Konzert_DieIhrAufDiesemWegeGeht_Gries_Reutte_Flyer.png){:class="flyer"}](/assets/archiv/201703_KaChorIbk_Konzert_DieIhrAufDiesemWegeGeht_Gries_Reutte_Flyer.PDF)
+
 Konzert "Die Ihr Auf Diesem Wege Geht", Reutte und Gries bei Bozen
-([Flyer](/assets/archiv/201703_KaChorIbk_Konzert_DieIhrAufDiesemWegeGeht_Gries_Reutte_Flyer.PDF))
 
 ## Dezember 2016
 
+![Flyer](/assets/archiv/20161222_KammerchorWeihnachtskonzert.jpg){:class="flyer"}
 * Benefizkonzert, Servitenkirche, Innsbruck
 * Adventskonzert, Hauskapelle des Jesuitenkollegs, Innsbruck
 
 ## November 2016
 
+[![Flyer](/assets/archiv/20161113_Flyer_KammerchorIbk_Konzert_Der_Toene_Licht.png){:class="flyer"}](/assets/archiv/20161113_Flyer_KammerchorIbk_Konzert_Der_Toene_Licht.PDF)
+
 Jubiläums-Konzert "*Der Töne Licht*", [Vierundeinzig](http://www.vierundeinzig.at), Innsbruck
-([Flyer](/assets/archiv/20161113_Flyer_KammerchorIbk_Konzert_Der_Toene_Licht.PDF))
+([Programm](/assets/archiv/20161113_DerToeneLicht_ProgrammheftA5sw_DEMO.pdf))
 
 ## Juli 2016
 
@@ -191,8 +195,8 @@ Herzjesu, Konzert mit den Silberstimmen, Schwaz, und Texten von Bischof Stecher,
 
 ## März 2016
 
-Konzerte in See im Paznaun, Untermieming und Völs
-([Flyer](/assets/archiv/16_03_KammerchorIbk_Konzert_DieIhrAufDiesemWegeGeht_Flyer.pdf))
+"Die Ihr Auf Diesem Wege Geht", See im Paznaun, Untermieming und Völs
+([Flyer](/assets/archiv/201603_KammerchorIbk_Konzert_DieIhrAufDiesemWegeGeht_Flyer.pdf))
 
 ## Dezember 2015
 
@@ -239,8 +243,8 @@ Verdi-Requiem, Congress Innsbruck
 
 ## März 2014
 
+[![Flyer](/assets/archiv/201403_KammerchorInnsbruck_VonEinemLichtZumAndern_WEB.png){:class="flyer"}](/assets/archiv/201403_KammerchorInnsbruck_VonEinemLichtZumAndern_WEB.pdf)
 "Von einem Licht ins andre gehn"
-([Programm](/assets/archiv/201403_KammerchorInnsbruck_VonEinemLichtZumAndern_WEB.pdf))
 
 ## September 2013
 
@@ -262,8 +266,8 @@ Konzertreise nach Gumpoldskirchen, Niederösterreich, anlässlich der Feier "150
 
 ## Juni 2012
 
+[![Flyer](/assets/archiv/201206_Flyer_KammerchorIbk_VonLiebe.png){:class="flyer"}](/assets/archiv/201206_Flyer_KammerchorIbk_VonLiebe.pdf)
 "Von Liebe..."
-([Flyer](/assets/archiv/12_06_Flyer_KammerchorIbk_VonLiebe.pdf))
 
 ## Mai 2012
 
