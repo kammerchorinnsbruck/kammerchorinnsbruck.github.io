@@ -3,18 +3,12 @@
 
 <ol class="gallery">{% for file in files %}
   <li id="{{ filter }}{{ forloop.index }}">
-    {% if forloop.first %}
-      {% assign prev = forloop.length %}
-    {% else %}
-      {% assign prev = forloop.index | minus: 1 %}
-    {% endif %}
-    {% if forloop.last %}
-      {% assign next = 1 %}
-    {% else %}
-      {% assign next = forloop.index | plus: 1 %}
-    {% endif %}
-    <button onclick="jumpGallery('{{ filter }}{{ prev }}')" style="left :0">⬅️</button>
+    {% unless forloop.first %}
+    <button onclick="jumpGallery('{{ filter }}{{ forloop.index | minus: 1 }}')" style="left :0">⬅️</button>
+    {% endunless %}
     <img src="{{ file.path }}" loading="lazy">
-    <button onclick="jumpGallery('{{ filter }}{{ next }}')" style="right:0">➡️</button>
+    {% unless forloop.last %}
+    <button onclick="jumpGallery('{{ filter }}{{ forloop.index | plus: 1 }}')" style="right :0">➡️</button>
+    {% endunless %}
   </li>
 {% endfor %}</ol>
