@@ -182,7 +182,8 @@ Konzert "Die Ihr Auf Diesem Wege Geht", Reutte und Gries bei Bozen
 [![Flyer](/assets/archiv/20161113_Flyer_KammerchorIbk_Konzert_Der_Toene_Licht.png){:class="flyer"}](/assets/archiv/20161113_Flyer_KammerchorIbk_Konzert_Der_Toene_Licht.PDF)
 
 Jubiläums-Konzert "*Der Töne Licht*", [Vierundeinzig](http://www.vierundeinzig.at), Innsbruck
-([Programm](/assets/archiv/20161113_DerToeneLicht_ProgrammheftA5sw_DEMO.pdf))
+([Programm](/assets/archiv/20161113_DerToeneLicht_ProgrammheftA5sw_DEMO.pdf),
+[Trailer](https://vimeo.com/187457376))
 
 ## Juli 2016
 
@@ -210,7 +211,8 @@ Witness - Chortag des Tiroler Sängerbundes, Stadtsaal Kufstein und Congress Inn
 
 ![Plakat](/assets/archiv/20151011_KaChor_Innstrumenti_Konzert_Goetzens_Plakat.jpg){:class="flyer"}
 Sakrale Musik unserer Zeit: Konzert mit dem Kammerorchester [INNstrumenti](http://www.innstrumenti.at), Wallfahrtskirche Götzens
-([Postkarte](/assets/archiv/20151011_KaChor_und_Innstrumenti_Konzert_Goetzens_Postkarte.pdf))
+([Postkarte](/assets/archiv/20151011_KaChor_und_Innstrumenti_Konzert_Goetzens_Postkarte.pdf),
+[Rezension in der TT](/assets/archiv/20151014_TT_kritik_smuz.jpg))
 
 ## September 2015
 
@@ -224,6 +226,9 @@ Neue sakrale Chormusik mit Texten von Christoph Ransmayr, Pfarrkirche St. Nikola
 ![greek](/assets/archiv/20150819_KaChor_Konzert_Plakat_Griechenland_gr.jpg){:class="flyer"}
 Union of Greek Critics for Drama and Music 2014 Prize Concert:
 "Ich träum bei Tag und Nacht", Alexandroupolis, Griechenland
+([Programm](/assets/archiv/2015_Kammerchor-Alexandropolis_Programm.png),
+[Reisebericht](/assets/archiv/2015_Reisebericht_Griechenland.pdf),
+[TV-Bericht](https://www.youtube.com/watch?v=kEr7HiEWh-w))
 
 ## April 2015
 
@@ -257,7 +262,8 @@ Konzertreise nach Gumpoldskirchen, Niederösterreich, anlässlich der Feier "150
 ## Juni 2013
 
 "Musik im Schloss"
-([Flyer](/assets/archiv/20130609_Musik_im_Schloss_AMBRAS.PDF))
+([Flyer](/assets/archiv/20130609_Musik_im_Schloss_AMBRAS.PDF),
+[Programm](/assets/archiv/20130609-Programm_Schloss_Ambras.pdf))
 
 ## März 2013
 
@@ -275,7 +281,11 @@ Konzertreise nach Gumpoldskirchen, Niederösterreich, anlässlich der Feier "150
 
 ## November 2011
 
-"Jubiläumskonzert - 10 Jahre Kammerchor Innsbruck"
+"Jubiläumskonzert - 10 Jahre Kammerchor Innsbruck" mit dem Tiroler Landesjugendchor
+
+* 19.11.2011, 20:00, Großer Stadtsaal, Innsbruck
+* 20.11.2011, 20:00, Festung Kufstein
+([Programm](/assets/archiv/20111120_Jubilaeum.pdf))
 
 ## Mai 2011
 
