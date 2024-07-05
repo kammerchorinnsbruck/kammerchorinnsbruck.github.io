@@ -183,7 +183,7 @@ img.portrait {
   text-align: center;
   color: #7B6C75;
   margin-top: 25px;
-  padding: 25px 0 25px 0;
+  padding-top: 25px;
 }
 
 .footer a {
