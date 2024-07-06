@@ -123,31 +123,29 @@ img.portrait {
 }
 
 .gallery {
-  padding: 0;
-  list-style: none;
-  display: flex;
-  overflow-x: scroll;
-  scroll-snap-type: x mandatory;
+  margin: 10px auto;
+  display: grid;
+  /* grid-template-columns is set by the HTML code */
+  grid-template-rows: [buttons] 50px [images] auto;
+  justify-items: center;
+  align-items: center;
 }
-
-.gallery > li {
-  position: relative;
-  flex: 0 0 100%;
-  scroll-snap-align: center;
+.gallery > input {
+  grid-row: buttons;
+  width: 1.5rem;
+  height: 1.5rem;
+  accent-color: #7b0b45;
 }
-
-.gallery > li > img {
-  margin: auto;
-  display: block;
+.gallery > img {
+  grid-row: images;
+  grid-column: 1 / -1;
+  max-width: 100%;
   max-height: 500px;
-  max-width: 100%
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
 }
-
-.gallery > li > button {
-  font-size: 25px;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
+.gallery > input:checked + img {
+  opacity: 1;
 }
 
 .video {
