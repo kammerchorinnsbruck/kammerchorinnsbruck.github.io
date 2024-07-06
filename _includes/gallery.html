@@ -1,13 +1,10 @@
 {% assign filter = include.filter %}
 {% assign files = site.static_files | where_exp: "item", "item.path contains filter" %}
 <section class="gallery" style="grid-template-columns: 1fr repeat({{files | size}}, auto) 1fr">
-  <input type="radio" style="opacity: 0"/>
 {% for file in files %}
   <input type="radio" name="gallery" id="{{ filter }}{{ forloop.index }}" {% if forloop.first %} checked {% endif %}/>
-  <div>
-    {% unless forloop.first %}<label for="{{ filter }}{{ forloop.index | minus: 1 }}" style="left :0">◀</label>{% endunless %}
-    <img src="{{ file.path }}" loading="lazy">
-    {% unless forloop.last  %}<label for="{{ filter }}{{ forloop.index |  plus: 1 }}" style="right:0">▶</label>{% endunless %}
-  </div>
+  <label for="{{ filter }}{{ forloop.index | minus: 1 }}" style="grid-column-start:1;{% if forloop.first %}opacity:0;{% endif %}">◀</label>
+  <img src="{{ file.path }}" loading="lazy">
+  <label for="{{ filter }}{{ forloop.index |  plus: 1 }}" style="grid-column-end: -1;{% if forloop.last  %}opacity:0;{% endif %}">▶</label>
 {% endfor %}
 </section>
