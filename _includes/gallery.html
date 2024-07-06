@@ -3,7 +3,11 @@
 <section class="gallery" style="grid-template-columns: 1fr repeat({{files | size}}, auto) 1fr">
   <input type="radio" style="opacity: 0"/>
 {% for file in files %}
-  <input type="radio" {% if forloop.first %} checked {% endif %} name="gallery"/>
-  <img src="{{ file.path }}" loading="lazy">
+  <input type="radio" name="gallery" id="{{ filter }}{{ forloop.index }}" {% if forloop.first %} checked {% endif %}/>
+  <div>
+    {% unless forloop.first %}<label for="{{ filter }}{{ forloop.index | minus: 1 }}" style="left :0">◀</label>{% endunless %}
+    <img src="{{ file.path }}" loading="lazy">
+    {% unless forloop.last  %}<label for="{{ filter }}{{ forloop.index |  plus: 1 }}" style="right:0">▶</label>{% endunless %}
+  </div>
 {% endfor %}
 </section>
