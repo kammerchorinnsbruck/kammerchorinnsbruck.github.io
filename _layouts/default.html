@@ -7,15 +7,6 @@
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="/style.css">
     <link rel="icon" type="image/png" href="/assets/icon.svg">
-    <script>
-      function jumpGallery(id) {
-        const anchor = document.getElementById(id);
-        const overflow = anchor.parentNode;
-        const   anchorRect =   anchor.getBoundingClientRect();
-        const overflowRect = overflow.getBoundingClientRect();
-        overflow.scrollBy(anchorRect.left - overflowRect.left, 0);
-      }
-    </script>
   </head>
 
   <body>
