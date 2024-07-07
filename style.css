@@ -45,7 +45,6 @@ iframe {
 nav {
   position: sticky; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-  z-index: 1; /* Prevent gallery to cover navbar */
   background-color: white;
   box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.1);
   width: 100%;
@@ -134,6 +133,7 @@ img.portrait {
   grid-row: buttons;
   width: 20px;
   height: 20px;
+  margin: 4px;
   accent-color: #7b0b45;
 }
 .gallery > img {
@@ -147,15 +147,25 @@ img.portrait {
 .gallery > label {
   display: none;
   font-size: 25px;
+  margin: 5px;
   grid-row: buttons;
+  user-select: none;
 }
-.gallery > input:checked + label {
+.gallery > .prev {
+  grid-column-start: 1;
+  justify-self: end;
+}
+.gallery > .next {
+  grid-column-end: -1;
+  justify-self: start;
+}
+.gallery > input:checked + .prev {
   display: inline;
 }
-.gallery > input:checked + label + img {
+.gallery > input:checked + .prev + img {
   opacity: 1;
 }
-.gallery > input:checked + label + img + label {
+.gallery > input:checked + .prev + img + .next {
   display: inline;
 }
 
