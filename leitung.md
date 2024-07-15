@@ -33,7 +33,7 @@ Jugendstimmbildung im Elementar- und Sekundarbereich.
 
 ## Christoph Hartmann
 
-![Christoph Hartmann](/assets/christoph.jpg){:class="portrait" height="450px"}
+![Christoph Hartmann](/assets/christoph-2024.jpg){:class="portrait" height="450px"}
 
 Christoph Hartmann, geboren 1996, stammt aus Vorarlberg und studiert Lehramt in den Fächern Inklusive Pädagogik sowie Musik- und Instrumentalmusikerziehung mit den Hauptfächern Klassischer Gesang bei der Sopranistin Vera Schoenenberg und Trompete bei Mag. Martin Patscheider in Innsbruck. Die Mitwirkung in der Kinderoper von Maurice Ravels „L'enfant et les sortilèges“, das Singen im Vorarlberger Landesjugendchor Voices, die Teilnahme an den Payerbacher Meisterkursen und sein erstes Engagement im Solistenensemble des Musiktheater Vorarlberg, waren für den Bariton wegweisende Schritte. Nach dem Besuch des einjährigen Chorleitungskurses des Chorverband Tirol eröffnete sich für Christoph ein neues Feld, wodurch er unter anderem seit Herbst 2022 erste Erfahrungen als stellvertretender Chorleiter des Kammerchor Innsbruck an der Seite von Christian Wegscheider sammelt. Ebenso hatte Christoph bereits die Gelegenheit den Landesjugendchor Vorarlberg zu dirigieren. Seine Interessen reichen von Blas- und Volksmusik, bis hin zum Spiel auf der Naturtrompete, dem Singen in Chören und Ensembles sowie Mitwirken in Jazz- und Kammermusikformationen.
 
