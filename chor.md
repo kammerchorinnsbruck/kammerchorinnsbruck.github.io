@@ -20,7 +20,7 @@ Orchestern
 Bei seinen Projekten wagt sich der *Kammerchor Innsbruck* jedes Mal an
 **neue Herausforderungen**, um sich stetig weiterzuentwickeln.
 Für die Erreichung dieser immer neuen musikalischen Ziele setzt der *Kammerchor Innsbruck*
-neben seiner ausfeilten musikalischen Arbeit auf einen
+neben seiner ausgefeilten musikalischen Arbeit auf einen
 starken Zusammenhalt innerhalb des Chores.
 
 2015 wurde der *Kammerchor Innsbruck* mit dem Landespreis ausgezeichnet.
