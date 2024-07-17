@@ -74,11 +74,12 @@ Mitwirkende:
  
 Gesamtleitung: Christian Wegscheider
 
-<!--
 # Da haben die Dornen Rosen getragen
 
-<a href="/assets/flyer/2022-12.jpg"><img class="flyer" src="/assets/flyer/2022-12.jpg"></a>
--->
+[![Flyer](/assets/flyer/2022-12.jpg){:class="flyer"}](/assets/flyer/2022-12.jpg)
+
+ 8.12.2022, Innsbruck und
+10.12.2022, Neustift
 
 # ... und erhebt die Niedrigen
 
