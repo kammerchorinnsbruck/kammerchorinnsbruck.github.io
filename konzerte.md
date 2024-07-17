@@ -78,8 +78,8 @@ Gesamtleitung: Christian Wegscheider
 
 [![Flyer](/assets/flyer/2022-12.jpg){:class="flyer"}](/assets/flyer/2022-12.jpg)
 
- 8.12.2022, Innsbruck und
-10.12.2022, Neustift
+ 8.12.2022, Servitenkirche, Innsbruck und
+10.12.2022, Pfarrkirche Neustift im Stubaital
 
 # ... und erhebt die Niedrigen
 
