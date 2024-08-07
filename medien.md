@@ -6,6 +6,10 @@ title: Bilder & Hörproben
 
 {% include gallery.html filter="nkdhh" %}
 
-<div class="video">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-VqpOLHUiCA?si=YtJcVaPvSDPuufGW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{% include youtube.html id="-VqpOLHUiCA?si=YtJcVaPvSDPuufGW" %}
+
+# Sehnsucht - Eine musikalische und literarische Reise
+
+{% include youtube.html id="N1-HhBIxK48?si=wvc3uHTjR0AxpKiP" %}
+
+{% include youtube.html id="1JS7tNuiz7M?si=D01MXwkuOmFJcmzU" %}
