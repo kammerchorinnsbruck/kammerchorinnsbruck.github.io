@@ -8,7 +8,7 @@ title: Kammerchor Innsbruck
 
 ## Vom Himmel
 
-* 30.11.24, 19:30 Uhr, Servitenkirche Innsbruck
+* 30.11.24, 19:30 Uhr, Servitenkirche Innsbruck [🗓️](assets/20241130-vomhimmel.ics)
 * 01.12.24, 17:00 Uhr, Pfarrkirche Neustift im Stubaital
 
 Adventliche Chormusik von B. Britten, A. Bruckner, M. Reger, H. Kaminski, E. Grieg, J. Brahms, H. Distler u.a.
