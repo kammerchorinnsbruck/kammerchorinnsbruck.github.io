@@ -41,6 +41,8 @@ Christoph Hartmann, geboren 1996, stammt aus Vorarlberg und studiert Lehramt in 
 
 # Management
 
+## Daria Tautschnig
+
 ![Daria Tautschnig](/assets/daria-2024.jpg){:class="portrait" width="450px"}
 
 Daria Tautschnig verbindet zwei Welten miteinander:
@@ -64,7 +66,7 @@ Christine Erlacher
 Kassierin:  
 Lucia Moli
 
-Schriftführerin & Management:  
+Schriftführerin:  
 Daria Tautschnig
 
 Soziale Medien:  
