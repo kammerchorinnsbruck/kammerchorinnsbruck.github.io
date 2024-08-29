@@ -3,7 +3,7 @@ title: Konzerte
 description: Konzerte des Kammerchor Innsbruck finden seit 2005 in Tirol, Salzburg, Vorarlberg, Südtirol statt.
 ---
 
-# Singet dem Herrn ein neues Lied
+# Singet dem Herrn ein neues Lied {#sdhenl}
 
 [![Flyer](/assets/flyer/2024-05.jpg){:class="flyer"}](/assets/flyer/2024-05.jpg)
 
@@ -33,7 +33,7 @@ Mitwirkende:
 
 Gesamtleitung: Christian Wegscheider
 
-# Nun komm, der Heiden Heiland
+# Nun komm, der Heiden Heiland {#nkdhh}
 
 [![Flyer](/assets/flyer/2023-12.jpg){:class="flyer"}](/assets/flyer/2023-12.pdf)
 
@@ -58,7 +58,7 @@ Barockorchester mit Ulrike Engel als Konzertmeisterin
 
 Gesamtleitung: Christian Wegscheider
 
-# Sehnsucht - Eine musikalische und literarische Reise
+# Sehnsucht - Eine musikalische und literarische Reise {#sehnsucht}
 
 [![Flyer](/assets/flyer/2023-06.jpg){:class="flyer"}](/assets/flyer/2023-06.jpg)
 

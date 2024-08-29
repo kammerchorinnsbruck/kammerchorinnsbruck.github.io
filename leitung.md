@@ -39,6 +39,21 @@ Jugendstimmbildung im Elementar- und Sekundarbereich.
 Christoph Hartmann, geboren 1996, stammt aus Vorarlberg und studiert Lehramt in den Fächern Inklusive Pädagogik sowie Musik- und Instrumentalmusikerziehung mit den Hauptfächern Klassischer Gesang bei der Sopranistin Vera Schoenenberg und Trompete bei Mag. Martin Patscheider in Innsbruck. Die Mitwirkung in der Kinderoper von Maurice Ravels „L'enfant et les sortilèges“, das Singen im Vorarlberger Landesjugendchor Voices, die Teilnahme an den Payerbacher Meisterkursen und sein erstes Engagement im Solistenensemble des Musiktheater Vorarlberg, waren für den Bariton wegweisende Schritte. Nach dem Besuch des einjährigen Chorleitungskurses des Chorverband Tirol eröffnete sich für Christoph ein neues Feld, wodurch er unter anderem seit Herbst 2022 erste Erfahrungen als stellvertretender Chorleiter des Kammerchor Innsbruck an der Seite von Christian Wegscheider sammelt. Ebenso hatte Christoph bereits die Gelegenheit den Landesjugendchor Vorarlberg zu dirigieren. Seine Interessen reichen von Blas- und Volksmusik, bis hin zum Spiel auf der Naturtrompete, dem Singen in Chören und Ensembles sowie Mitwirken in Jazz- und Kammermusikformationen.
 
 
+# Management
+
+Daria Tautschnig verbindet zwei Welten miteinander:
+Die studierte Juristin erhält ihre musikalische Ausbildung in den Fächern Gesang, Klavier und Schlagwerk.
+
+Sie ist immer wieder in verschiedenen Ensembles und Formationen tätig und regelmäßig als Kantorin in der *Hofkirche Innsbruck* zu hören.
+Seit Herbst 2020 ist sie Sängerin im *Kammerchor Innsbruck*.
+
+Neben ihren musikalischen Tätigkeiten hat Daria im *Kammerchor Innsbruck* das Management in den Bereichen internes Chormanagement sowie Projektmanagement inne.
+So wurden bereits das Projekt
+["Sehnsucht. Eine musikalische und literarische Reise"](/konzerte#sehnsucht) im Frühjahr 2023 sowie die sehr erfolgreichen Konzerte
+["Nun komm, der Heiden Heiland"](/konzerte/#nkdhh) im Dezember 2023 und
+["Singet dem Herrn ein neues Lied"](/konzerte/#sdhenl) im Mai 2024 realisiert.
+
+
 # Organisatorische Leitung
 
 Obfrau:  
