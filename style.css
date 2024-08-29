@@ -61,7 +61,7 @@ nav {
 
 
 nav a {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.75);
   font-weight: 400;
   text-decoration: none;
   transition: 0.3s;
