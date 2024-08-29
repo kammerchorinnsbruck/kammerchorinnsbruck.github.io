@@ -41,6 +41,8 @@ Christoph Hartmann, geboren 1996, stammt aus Vorarlberg und studiert Lehramt in 
 
 # Management
 
+![Daria Tautschnig](/assets/daria-2024.jpg){:class="portrait" width="450px"}
+
 Daria Tautschnig verbindet zwei Welten miteinander:
 Die studierte Juristin erhält ihre musikalische Ausbildung in den Fächern Gesang, Klavier und Schlagwerk.
 
