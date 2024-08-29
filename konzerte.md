@@ -1,5 +1,6 @@
 ---
 title: Konzerte
+description: Konzerte des Kammerchor Innsbruck finden seit 2005 in Tirol, Salzburg, Vorarlberg, Südtirol statt.
 ---
 
 # Singet dem Herrn ein neues Lied

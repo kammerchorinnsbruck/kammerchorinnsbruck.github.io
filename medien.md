@@ -1,5 +1,6 @@
 ---
 title: Bilder & Hörproben
+description: Bilder und Videos von Konzerten des Kammerchor Innsbruck.
 ---
 
 # Nun komm, der Heiden Heiland
