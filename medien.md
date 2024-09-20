@@ -7,7 +7,7 @@ description: Bilder und Videos von Konzerten des Kammerchor Innsbruck.
 
 {% include gallery.html filter="nkdhh" %}
 
-[Hugo Distler: O Heiland, reiß die Himmel auf](https://www.youtube.com/watch?v=UDuZ_4PoKzo)
+{% include youtube.html id="UDuZ_4PoKzo" %}
 
 [Johann Sebastian Bach: Nun komm, der Heiden Heiland (BWV 62)](https://www.youtube.com/watch?v=oStF6d-TX_U)
 
