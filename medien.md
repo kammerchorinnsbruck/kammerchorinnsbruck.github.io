@@ -7,12 +7,10 @@ description: Bilder und Videos von Konzerten des Kammerchor Innsbruck.
 
 {% include gallery.html filter="nkdhh" %}
 
-<!-- Johannes Brahms: O Heiland, reiß die Himmel auf -->
-{% include youtube.html id="UDuZ_4PoKzo" %}
+{% include youtube.html id="UDuZ_4PoKzo" title="Johannes Brahms: O Heiland, reiß die Himmel auf" %}
 
-<!-- Johann Sebastian Bach: Nun komm, der Heiden Heiland (BWV 62) -->
-{% include youtube.html id="oStF6d-TX_U" %}
+{% include youtube.html id="oStF6d-TX_U" title="Johann Sebastian Bach: Nun komm, der Heiden Heiland (BWV 62)" %}
 
 # Sehnsucht - Eine musikalische und literarische Reise
 
-{% include youtube.html id="1JS7tNuiz7M?si=D01MXwkuOmFJcmzU" %}
+{% include youtube.html id="1JS7tNuiz7M" title="Ned i vester soli glader, arr. Grete Pedersen" %}
