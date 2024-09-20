@@ -169,8 +169,9 @@ img.portrait {
 .video {
   text-align: center;
   margin: 10px auto;
-  width:  560px;
-  height: 315px;
+  width: 560px;
+  max-width: 100%;
+  aspect-ratio: 16/9;
 }
 
 /*
