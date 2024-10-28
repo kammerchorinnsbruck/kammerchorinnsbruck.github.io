@@ -204,6 +204,21 @@ img.social {
   width: 50px;
 }
 
+.sponsors {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.sponsors a {
+  display: contents;
+}
+
+.sponsors img {
+  flex-basis: 200px;
+  min-width: 100px;
+}
+
 /* ensure that floats do not leak into these elements */
 h1, h2, h3, .footer {
   clear: both;
