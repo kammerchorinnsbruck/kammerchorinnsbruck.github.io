@@ -206,8 +206,10 @@ img.social {
 
 .sponsors {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
+  width: 100%;
 }
 
 .sponsors a {
@@ -215,8 +217,9 @@ img.social {
 }
 
 .sponsors img {
-  flex-basis: 200px;
   min-width: 100px;
+  max-width: 200px;
+  flex: 1;
 }
 
 /* ensure that floats do not leak into these elements */
