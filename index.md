@@ -7,9 +7,7 @@ description: Aktuelle Konzerttermine des Kammerchor Innsbruck.
 
 # Nächste Konzerte
 
-## Vom Himmel
-
-[![Flyer](/assets/flyer/2024-11.jpg){:class="flyer"}](/assets/flyer/2024-11.jpg)
+## Vom Himmel [![Flyer](/assets/flyer/2024-11.jpg){:class="flyer"}](/assets/flyer/2024-11.jpg)
 
 * 30.11.24, 19:30 Uhr, Servitenkirche Innsbruck [🗓️](assets/20241130-vomhimmel.ics)
   (Einlass/Abendkassa: 19:00 Uhr)
