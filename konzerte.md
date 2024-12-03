@@ -3,6 +3,33 @@ title: Konzerte
 description: Konzerte des Kammerchor Innsbruck finden seit 2005 in Tirol, Salzburg, Vorarlberg, Südtirol statt.
 ---
 
+# Vom Himmel
+
+[![Flyer](/assets/flyer/2024-11.jpg){:class="flyer"}](/assets/flyer/2024-11.jpg)
+
+30.11.24, Servitenkirche Innsbruck und
+01.12.24, Pfarrkirche Neustift im Stubaital
+
+Programm:
+
+- Tadeja Vulc: O Sapientia
+- Max Reger: Es kommt ein Schiff geladen
+- Joseph Kronsteiner: Markt und Straßen
+- Arvo Pärt: O Adonai, O Sproß aus Isais Wurzel
+- Edvard Grieg: Ave Maris Stella
+- Manfred Länger: O Key of David
+- Max Reger: Und unser lieben Frauen Traum
+- Manfred Länger: O Orient
+- Andrej Makor: O Lux Beata Trinitas
+- Hermann Kronsteiner: Markt und Straßen
+- Arvo Pärt: O König aller Völker
+- William Hawley: O Maria Maris Stella
+- Anton Bruckner: Virga Jesse
+- Andrej Makor: O Emmanuel
+
+Leitung: Christian Wegscheider, Christoph Hartmann
+
+
 # Singet dem Herrn ein neues Lied {#sdhenl}
 
 [![Flyer](/assets/flyer/2024-05.jpg){:class="flyer"}](/assets/flyer/2024-05.jpg)

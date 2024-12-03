@@ -5,6 +5,7 @@ description: Aktuelle Konzerttermine des Kammerchor Innsbruck.
 
 <img src="/assets/kammerchor.jpg" alt="Kammerchor Innsbruck" style="width:100%">
 
+<!--
 # Nächste Konzerte
 
 ## Vom Himmel [![Flyer](/assets/flyer/2024-11.jpg){:class="flyer"}](/assets/flyer/2024-11.jpg)
@@ -19,3 +20,4 @@ Adventliche Chormusik von B. Britten, A. Bruckner, M. Reger, H. Kaminski, E. Gri
 
 Karten: € 20,-- (Kinder unter 12 Jahren frei)  
 Reservierung unter: <karten@kammerchorinnsbruck.at>
+-->
