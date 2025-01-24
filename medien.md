@@ -3,6 +3,12 @@ title: Bilder & Hörproben
 description: Bilder und Videos von Konzerten des Kammerchor Innsbruck.
 ---
 
+# Vom Himmel
+
+{% include youtube.html id="UGqIDEr1ByQ" title="Es kommt ein Schiff geladen - Max Reger" %}
+
+{% include youtube.html id="jiE0PkT26Fs" title="O Lux Beata Trinitas - Andrej Makor" %}
+
 # Nun komm, der Heiden Heiland
 
 {% include gallery.html filter="nkdhh" %}
