@@ -9,20 +9,26 @@ description: Aktuelle Konzerttermine des Kammerchor Innsbruck.
 
 ## Sehnsucht 2.0 --- ewiglich
 
-- 16.05.25, 19:00 Uhr, Ehrwald
-- 17.05.25, 20:00 Uhr, Zell am Ziller
-- 18.05.25, 20:00 Uhr, Barocker Stadtsaal, Hall in Tirol
+- Freitag, 16. Mai 2025, 19 Uhr, [Pfarrkirche Mariä Heimsuchung, Ehrwald](https://www.openstreetmap.org/way/121726757) [🗓️](assets/20250516-sehnsucht20.ics)
+- Samstag, 17. Mai 2025, 20 Uhr, Aula der [Musikmittelschule Zell am Ziller](https://www.openstreetmap.org/node/11826571727) [🗓️](assets/20250517-sehnsucht20.ics)
+- Sonntag, 18. Mai 2025, 20 Uhr, [Barocker Stadtsaal, Hall in Tirol](https://www.openstreetmap.org/node/11650408238) [🗓️](assets/20250518-sehnsucht20.ics)
+
+Werke von J. Brahms, F. Schubert, F. Hensel und R. Fuchs verschmolzen mit Videoinstallationen von Stefan Runge
+
+Karten:
+Reservierung bis 15. Mai 2025 unter <karten@kammerchorinnsbruck.at>
+
+### Mitwirkende
+
+- Klavier: Alexander Ringler und Fausto Quintaba
+- Streichquintett
+- Kammerchor Innsbruck
+
+[Leitung](/leitung): Christian Wegscheider, Christoph Hartmann
+
 
 <!--
 ## Vom Himmel [![Flyer](/assets/flyer/2024-11.jpg){:class="flyer"}](/assets/flyer/2024-11.jpg)
-
-* 30.11.24, 19:30 Uhr, Servitenkirche Innsbruck [🗓️](assets/20241130-vomhimmel.ics)
-  (Einlass/Abendkassa: 19:00 Uhr)
-* 01.12.24, 17:00 Uhr, Pfarrkirche Neustift im Stubaital [🗓️](assets/20241201-vomhimmel.ics)
-
-Adventliche Chormusik von B. Britten, A. Bruckner, M. Reger, H. Kaminski, E. Grieg, J. Brahms, H. Distler u.a.
-
-[Leitung](/leitung): Christian Wegscheider, Christoph Hartmann
 
 Karten: € 20,-- (Kinder unter 12 Jahren frei)  
 Reservierung unter: <karten@kammerchorinnsbruck.at>
