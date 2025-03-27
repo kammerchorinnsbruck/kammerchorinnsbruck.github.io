@@ -3,6 +3,14 @@ title: Bilder & Hörproben
 description: Bilder und Videos von Konzerten des Kammerchor Innsbruck.
 ---
 
+# Meisterkurs für Chorleiter:innen
+
+Chorverband Tirol: Meisterkurs für Chorleiter:innen mit [Prof. Martin Steidler](https://de.wikipedia.org/wiki/Martin_Steidler) (München) mit dem *Kammerchor Innsbruck* als Studiochor
+
+14.--16. März 2025, Haus der Musik
+
+{% include gallery.html filter="meisterkurs2025" %}
+
 # Vom Himmel
 
 {% include youtube.html id="UGqIDEr1ByQ" title="Es kommt ein Schiff geladen - Max Reger" %}
