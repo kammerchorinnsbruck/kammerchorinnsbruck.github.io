@@ -5,7 +5,12 @@ description: Aktuelle Konzerttermine des Kammerchor Innsbruck.
 
 <img src="/assets/kammerchor.jpg" alt="Kammerchor Innsbruck" style="width:100%">
 
-# Nächste Konzerte
+# Nächste Veranstaltungen
+
+## Rundfunkauftritt
+
+Auftritt in der ORF-Tirol-Sendung "Vielstimmig"  
+Dienstag, 13. Mai 2025
 
 ## Sehnsucht 2.0 --- ewiglich
 
