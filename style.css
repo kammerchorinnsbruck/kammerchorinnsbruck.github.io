@@ -210,6 +210,7 @@ img.social {
   justify-content: center;
   gap: 20px;
   width: 100%;
+  margin-bottom: 16px;
 }
 
 .sponsors a {
