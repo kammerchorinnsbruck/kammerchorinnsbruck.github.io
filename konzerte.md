@@ -9,6 +9,18 @@ description: Konzerte des Kammerchor Innsbruck finden seit 2005 in Tirol, Salzbu
 - 17.05.25, 20:00 Uhr, Zell am Ziller
 - 18.05.25, 20:00 Uhr, Barocker Stadtsaal, Hall in Tirol
 
+Mitwirkende:
+
+- Alexander Ringler (Klavier)
+- Fausto Quintaba (Klavier)
+- Ernst Theuerkauf (Viola)
+- Martha Kneringer (Viola)
+- Kaspar Singer (Violoncello)
+- Antonia Neussl (Violoncello)
+- Alexandra Lechner (Kontrabass)
+
+Leitung: Christian Wegscheider, Christoph Hartmann
+
 
 # Vom Himmel
 
