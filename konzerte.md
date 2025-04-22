@@ -5,6 +5,8 @@ description: Konzerte des Kammerchor Innsbruck finden seit 2005 in Tirol, Salzbu
 
 # Sehnsucht 2.0 --- ewiglich
 
+[![Flyer](/assets/flyer/2025-05.svg){:class="flyer"}](/assets/flyer/2025-05.svg)
+
 - 16.05.25, 19:00 Uhr, Ehrwald
 - 17.05.25, 20:00 Uhr, Zell am Ziller
 - 18.05.25, 20:00 Uhr, Barocker Stadtsaal, Hall in Tirol

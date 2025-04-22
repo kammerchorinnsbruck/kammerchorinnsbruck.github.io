@@ -14,6 +14,8 @@ Dienstag, 13. Mai 2025
 
 ## Sehnsucht 2.0 --- ewiglich
 
+[![Flyer](/assets/flyer/2025-05.svg){:class="flyer"}](/assets/flyer/2025-05.svg)
+
 - Freitag, 16. Mai 2025, 19 Uhr, [Pfarrkirche Mariä Heimsuchung, Ehrwald](https://www.openstreetmap.org/way/121726757) [🗓️](assets/20250516-sehnsucht20.ics)
 - Samstag, 17. Mai 2025, 20 Uhr, Aula der [Musikmittelschule Zell am Ziller](https://www.openstreetmap.org/node/11826571727) [🗓️](assets/20250517-sehnsucht20.ics)
 - Sonntag, 18. Mai 2025, 20 Uhr, [Barocker Stadtsaal, Hall in Tirol](https://www.openstreetmap.org/node/11650408238) [🗓️](assets/20250518-sehnsucht20.ics)
