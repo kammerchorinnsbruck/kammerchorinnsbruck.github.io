@@ -9,8 +9,7 @@ description: Aktuelle Konzerttermine des Kammerchor Innsbruck.
 
 ## Rundfunkauftritt
 
-Auftritt in der ORF-Tirol-Sendung "Vielstimmig"  
-Dienstag, 13. Mai 2025
+Dienstag, 13. Mai 2025, 20 Uhr: Auftritt in der ORF-Tirol-Sendung "Vielstimmig" ([Details](https://www.chorverband.tirol/sites/default/files/Newsletter/2025/nl-text.pdf))
 
 ## Sehnsucht 2.0 --- ewiglich
 
