@@ -3,6 +3,13 @@ title: Bilder & Hörproben
 description: Bilder und Videos von Konzerten des Kammerchor Innsbruck.
 ---
 
+# Rundfunkauftritt
+
+13. Mai 2025, 20 Uhr: Auftritt in der ORF-Tirol-Sendung "Vielstimmig"
+
+{% include gallery.html filter="2025-vielstimmig" %}
+
+
 # Meisterkurs für Chorleiter:innen
 
 Chorverband Tirol: Meisterkurs für Chorleiter:innen mit [Prof. Martin Steidler](https://de.wikipedia.org/wiki/Martin_Steidler) (München) mit dem *Kammerchor Innsbruck* als Studiochor
