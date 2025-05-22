@@ -108,6 +108,7 @@ p {
 
 img.flyer {
   float: right;
+  clear: right;
   margin-left: 1em;
   width: 25%;
 }
