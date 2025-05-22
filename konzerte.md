@@ -7,9 +7,23 @@ description: Konzerte des Kammerchor Innsbruck finden seit 2005 in Tirol, Salzbu
 
 [![Flyer](/assets/flyer/2025-05.svg){:class="flyer"}](/assets/flyer/2025-05.svg)
 
-- 16.05.25, 19:00 Uhr, Ehrwald
-- 17.05.25, 20:00 Uhr, Zell am Ziller
-- 18.05.25, 20:00 Uhr, Barocker Stadtsaal, Hall in Tirol
+[![Flyer](/assets/flyer/2025-05-zell-am-ziller.jpg){:class="flyer"}](/assets/flyer/2025-05-zell-am-ziller.jpg)
+
+- 16.05.2025, 19 Uhr, [Pfarrkirche Mariä Heimsuchung, Ehrwald](https://www.openstreetmap.org/way/121726757)
+- 17.05.2025, 20 Uhr, Aula der [Musikmittelschule Zell am Ziller](https://www.openstreetmap.org/node/11826571727)
+- 18.05.2025, 20 Uhr, [Barocker Stadtsaal, Hall in Tirol](https://www.openstreetmap.org/node/11650408238)
+
+Programm:
+
+- Fanny Hensel: Lockung (aus "Gartenlieder", op. 3/2)
+- Johannes Brahms: Liebesliederwalzer, op. 52
+- Johannes Brahms: Verlorene Jugend, op. 104/4
+- Franz Schubert: An die Sonne, D 439
+- Franz Schubert: Gesang der Geister, D 714
+- Robert Fuchs: Die Nachtigall, op. 64/6
+- Franz Schubert: Psalm 23, D 706
+- Johannes Brahms: Waldesnacht, op. 62/3
+- Fanny Hensel: Abschied (aus "Gartenlieder", op. 3/5)
 
 Mitwirkende:
 
@@ -21,15 +35,16 @@ Mitwirkende:
 - Antonia Neussl (Violoncello)
 - Alexandra Lechner (Kontrabass)
 
-Leitung: Christian Wegscheider, Christoph Hartmann
+Leitung: Christian Wegscheider, Christoph Hartmann  
+Videoinstallationen: Stefan Runge
 
 
 # Vom Himmel
 
 [![Flyer](/assets/flyer/2024-11.jpg){:class="flyer"}](/assets/flyer/2024-11.jpg)
 
-30.11.24, Servitenkirche Innsbruck und
-01.12.24, Pfarrkirche Neustift im Stubaital
+30.11.2024, Servitenkirche Innsbruck und
+01.12.2024, Pfarrkirche Neustift im Stubaital
 
 Programm:
 
