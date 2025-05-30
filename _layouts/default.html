@@ -4,7 +4,7 @@
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>{{ page.title }}{% unless page.url == "/" %} — Kammerchor Innsbruck{% endunless %}</title>
+    <title>{{ page.title | xml_escape }}{% unless page.url == "/" %} — Kammerchor Innsbruck{% endunless %}</title>
     <meta name="description" content="{{ page.description }}"/>
     <link rel="stylesheet" href="/style.css"/>
     <link rel="icon" type="image/png" href="/assets/icon.svg"/>
@@ -21,7 +21,7 @@
     <img src="/assets/header.svg">
     -->
     <div class="header">
-      <h1>{{ page.title }}</h1>
+      <h1>{{ page.title | xml_escape }}</h1>
       <!--
       <div class="border"></div>
       <div class="border-small"></div>
