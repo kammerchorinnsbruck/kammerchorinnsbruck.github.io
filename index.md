@@ -1,6 +1,7 @@
 ---
 title: Kammerchor Innsbruck
 description: Aktuelle Konzerttermine des Kammerchor Innsbruck.
+permalink: /index.xhtml
 ---
 
 <img src="/assets/kammerchor.jpg" alt="Kammerchor Innsbruck" style="width:100%">

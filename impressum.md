@@ -1,6 +1,7 @@
 ---
 title: Impressum
 description: Der Kammerchor Innsbruck ist ein eingetragener Verein unter Leitung von Christine Erlacher und Mitglied des Tiroler Sängerbundes.
+permalink: /impressum.xhtml
 ---
 
 Vereinsdaten:

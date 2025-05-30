@@ -1,6 +1,7 @@
 ---
 title: Leitung
 description: Christian Wegscheider ist seit 2019 der Chorleiter des Kammerchor Innsbruck.
+permalink: /leitung.xhtml
 ---
 
 # Musikalische Leitung
