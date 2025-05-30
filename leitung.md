@@ -7,7 +7,7 @@ description: Christian Wegscheider ist seit 2019 der Chorleiter des Kammerchor I
 
 ## Christian Wegscheider
 
-![Christian Wegscheider](/assets/christian-2024.jpg){:class="portrait" width="500px"}
+![Christian Wegscheider](/assets/christian-2024.jpg){:class="portrait" style="width:500px;"}
 
 Christian Wegscheider, geboren in Hall in Tirol, studierte *Konzertfach
 Gesang* am Tiroler Landeskonservatorium bei Univ.-Prof. Karlheinz Hanser
@@ -34,7 +34,7 @@ Jugendstimmbildung im Elementar- und Sekundarbereich.
 
 ## Christoph Hartmann
 
-![Christoph Hartmann](/assets/christoph-2024.jpg){:class="portrait" height="450px"}
+![Christoph Hartmann](/assets/christoph-2024.jpg){:class="portrait" style="height:450px;"}
 
 Christoph Hartmann stammt aus Vorarlberg und studiert Musik- und Instrumentalmusikpädagogik mit den Hauptfächern Klassischer Gesang bei der Sopranistin Vera Schoenenberg und Trompete bei Mag. Martin Patscheider sowie Inklusive Pädagogik im Master in Innsbruck. Solistisch konnte der Bariton bereits Erfahrungen am Musiktheater Vorarlberg und in diversen Vokalensembles sammeln. Im Bereich Chorleitung besuchte Christoph Fortbildungen in Vorarlberg, Tirol und Graz. Seit Herbst 2024 studiert er Dirigieren mit Schwerpunkt Chorleitung am Tiroler Landeskonservatorium. Derzeit ist er stellvertretender Chorleiter des Kammerchor Innsbruck und als Musik- sowie Inklusionspädagoge an der Musikvolksschule Allerheiligen tätig.
 
@@ -43,7 +43,7 @@ Christoph Hartmann stammt aus Vorarlberg und studiert Musik- und Instrumentalmus
 
 ## Daria Tautschnig
 
-![Daria Tautschnig](/assets/daria-2024.jpg){:class="portrait" width="450px"}
+![Daria Tautschnig](/assets/daria-2024.jpg){:class="portrait" style="width:450px;"}
 
 Daria Tautschnig verbindet zwei Welten miteinander:
 Die studierte Juristin erhält ihre musikalische Ausbildung in den Fächern Gesang, Klavier und Schlagwerk.
