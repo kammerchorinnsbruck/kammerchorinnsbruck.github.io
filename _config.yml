@@ -1,5 +1,5 @@
 name: Kammerchor Innsbruck
-permalink: /:categories/:title/
+permalink: /:categories/:title
 
 defaults:
   -
