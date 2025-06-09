@@ -1,7 +1,6 @@
 ---
 title: Chor
 description: Der Kammerchor Innsbruck ist ein gemischter Chor aus Tirol mit Fokus auf anspruchsvolle Chorliteratur.
-permalink: /chor.xhtml
 ---
 
 Nach seiner Gründung im Herbst 2001 hat sich der *Kammerchor Innsbruck*

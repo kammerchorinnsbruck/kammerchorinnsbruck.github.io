@@ -1,7 +1,6 @@
 ---
 title: Konzerte
 description: Konzerte des Kammerchor Innsbruck finden seit 2005 in Tirol, Salzburg, Vorarlberg, Südtirol statt.
-permalink: /konzerte.xhtml
 ---
 
 # Sehnsucht 2.0 --- ewiglich
