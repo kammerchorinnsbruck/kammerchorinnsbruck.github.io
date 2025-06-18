@@ -13,5 +13,11 @@ description: Aktuelle Konzerttermine des Kammerchor Innsbruck.
 
 Vertonungen von Britten, Mendelssohn und Kreek
 
-Mitwirkende: vier junge Tiroler Solist:innen  
+Mitwirkende:
+
+- Johanna Eva Wegscheider (Sopran)
+- Lisa Messner (Alt)
+- Mathias Bergmann (Tenor)
+- Simon Unterhofer (Bass)
+
 [Leitung](/leitung): Christian Wegscheider, Christoph Hartmann
