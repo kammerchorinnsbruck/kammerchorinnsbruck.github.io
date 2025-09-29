@@ -9,7 +9,12 @@ description: Aktuelle Konzerttermine des Kammerchor Innsbruck.
 
 ## Hymns & Psalms
 
-23.11.2025, 17 Uhr: Christuskirche Innsbruck
+* 21.11.2025: [Heilig-Geist-Kirche Telfs](https://www.openstreetmap.org/way/42180872)
+    * Einlass/Abendkassa: 17:30 Uhr
+    * Konzert: 18 Uhr
+* 23.11.2025: Christuskirche Innsbruck
+    * Einlass/Abendkassa: 16:30 Uhr
+    * Konzert: 17 Uhr
 
 Vertonungen von Britten, Mendelssohn und Kreek
 
@@ -21,3 +26,15 @@ Mitwirkende:
 - Simon Unterhofer (Bass)
 
 [Leitung](/leitung): Christian Wegscheider, Christoph Hartmann
+
+Karten: 25€, Reservierung bis 20.11. unter <karten@kammerchorinnsbruck.at>
+
+## PASSIO. Ein Klangbild
+
+* 14.03.2026: Mieming
+* 15.03.2026: Pfarrkirche Allerheiligen
+    * Einlass/Abendkassa: 16:30 Uhr
+    * Konzert: 17 Uhr
+    * Anschließend Agape
+
+Mitwirkende: [Mobilis Saxophonquartett](https://mobilis-saxophonquartett.at)
