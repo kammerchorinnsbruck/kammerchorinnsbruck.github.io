@@ -3,6 +3,29 @@ title: Konzerte
 description: Konzerte des Kammerchor Innsbruck finden seit 2005 in Tirol, Salzburg, Vorarlberg, Südtirol statt.
 ---
 
+## Hymns & Psalms
+
+[![Flyer](/assets/flyer/2025-11.svg){:class="flyer"}](/assets/flyer/2025-11.svg)
+
+* **21.11.2025, 18 Uhr**: [Heilig-Geist-Kirche Telfs](https://www.openstreetmap.org/way/42180872)
+    * Einlass/Abendkassa: 17:30 Uhr
+* **23.11.2025, 17 Uhr**: [Christuskirche Innsbruck](https://www.openstreetmap.org/way/90500513)
+    * Einlass/Abendkassa: 16:30 Uhr
+
+Vertonungen von Britten, Mendelssohn und Kreek
+
+Mitwirkende:
+
+- Johanna Eva Wegscheider (Sopran)
+- Lisa Messner (Alt)
+- Mathias Bergmann (Tenor)
+- Simon Unterhofer (Bass)
+
+[Leitung](/leitung): Christian Wegscheider, Christoph Hartmann
+
+Karten: 25€, Reservierung bis 20.11. unter <karten@kammerchorinnsbruck.at>
+
+
 # Sehnsucht 2.0 --- ewiglich
 
 [![Flyer](/assets/flyer/2025-05.svg){:class="flyer"}](/assets/flyer/2025-05.svg)
