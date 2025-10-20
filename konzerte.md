@@ -3,7 +3,7 @@ title: Konzerte
 description: Konzerte des Kammerchor Innsbruck finden seit 2005 in Tirol, Salzburg, Vorarlberg, Südtirol statt.
 ---
 
-## Hymns & Psalms
+# Hymns & Psalms
 
 [![Flyer](/assets/flyer/2025-11.svg){:class="flyer"}](/assets/flyer/2025-11.svg)
 

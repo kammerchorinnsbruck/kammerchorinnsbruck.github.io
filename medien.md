@@ -3,6 +3,15 @@ title: Bilder & Hörproben
 description: Bilder und Videos von Konzerten des Kammerchor Innsbruck.
 ---
 
+# Sehnsucht 2.0 --- ewiglich
+
+{% include youtube.html id="46jb3E9wvdo" title="Verlorene Jugend op. 104/4 - Johannes Brahms" %}
+
+{% include youtube.html id="Vzel-32OMAo" title="Liebesliederwalzer op. 52 - Johannes Brahms" %}
+
+{% include youtube.html id="LkNqvVnNOno" title="An die Sonne D439 - Franz Schubert" %}
+
+
 # Rundfunkauftritt
 
 13. Mai 2025, 20 Uhr: Auftritt in der ORF-Tirol-Sendung "Vielstimmig"
