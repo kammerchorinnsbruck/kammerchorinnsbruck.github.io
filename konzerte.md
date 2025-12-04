@@ -7,12 +7,22 @@ description: Konzerte des Kammerchor Innsbruck finden seit 2005 in Tirol, Salzbu
 
 [![Flyer](/assets/flyer/2025-11.svg){:class="flyer"}](/assets/flyer/2025-11.svg)
 
-* **21.11.2025, 18 Uhr**: [Heilig-Geist-Kirche Telfs](https://www.openstreetmap.org/way/42180872)
-    * Einlass/Abendkassa: 17:30 Uhr
-* **23.11.2025, 17 Uhr**: [Christuskirche Innsbruck](https://www.openstreetmap.org/way/90500513)
-    * Einlass/Abendkassa: 16:30 Uhr
+* 21.11.2025, 18 Uhr: [Heilig-Geist-Kirche Telfs](https://www.openstreetmap.org/way/42180872)
+* 23.11.2025, 17 Uhr: [Christuskirche Innsbruck](https://www.openstreetmap.org/way/90500513)
 
-Vertonungen von Britten, Mendelssohn und Kreek
+Programm:
+
+- Felix Mendelssohn-Bartholdy: Jauchzet dem Herrn, alle Welt
+- Benjamin Britten: Hymn to St. Cecilia
+- Felix Mendelssohn-Bartholdy: Warum toben die Heiden
+- Benjamin Britten: A Hymn to the Virgin
+- Cyrillus Kreek: Psalm 141
+- Felix Mendelssohn-Bartholdy: Richte mich Gott
+- Cyrillus Kreek: Armas Jesus, sind ma palun
+- Felix Mendelssohn-Bartholdy: Mein Herz erhebet Gott, den Herrn
+- Cyrillus Kreek: Õnnis on inimene
+- Felix Mendelssohn-Bartholdy: Denn er hat seinen Engeln
+- Cyrillus Kreek: Psalm 104 (Zugabe)
 
 Mitwirkende:
 
@@ -21,9 +31,7 @@ Mitwirkende:
 - Mathias Bergmann (Tenor)
 - Simon Unterhofer (Bass)
 
-[Leitung](/leitung): Christian Wegscheider, Christoph Hartmann
-
-Karten: 25€, Reservierung bis 20.11. unter <karten@kammerchorinnsbruck.at>
+Leitung: Christian Wegscheider, Christoph Hartmann
 
 
 # Sehnsucht 2.0 --- ewiglich
