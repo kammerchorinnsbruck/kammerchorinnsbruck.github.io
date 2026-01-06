@@ -15,7 +15,14 @@ Mit Uraufführungen für Saxophonquartett und Chor von Elias Praxmarer und Johan
 
 Mitwirkende: [Mobilis Saxophonquartett](https://mobilis-saxophonquartett.at)
 
-* **14.03.2026**: Mieming
+* **14.03.2026, 20 Uhr**: [Pfarrkirche Untermieming](https://www.openstreetmap.org/way/161583917)
+    - Reservierung: <kultur@mieming.at>
 * **15.03.2026, 17 Uhr**: [Pfarrkirche Allerheiligen](https://www.openstreetmap.org/way/106569739)
     * Einlass/Abendkassa: 16:30 Uhr
     * Agape nach dem Konzert
+    - Reservierung: <karten@kammerchorinnsbruck.at>
+
+Preise:
+- 25€
+- 20€ für Schüler:innen, Student:innen, Zivildiener:innen
+- 0€ für alle unter 14 Jahren
