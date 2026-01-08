@@ -5,6 +5,9 @@ description: Aktuelle Konzerttermine des Kammerchor Innsbruck.
 
 <img src="/assets/kammerchor.jpg" alt="Kammerchor Innsbruck" style="width:100%">
 
+Der Kammerchor Innsbruck sucht ab **September 2026** eine **neue musikalische Leitung**. Bei Interesse siehe die [Ausschreibung](/ausschreibung).
+
+
 # Nächste Veranstaltungen
 
 ## PASSIO. Ein Klangbild
