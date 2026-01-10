@@ -20,7 +20,7 @@ Mitwirkende: [Mobilis Saxophonquartett](https://mobilis-saxophonquartett.at)
 
 Preise:
 - 25€
-- 20€ für Schüler:innen, Student:innen, Zivildiener:innen
+- 20€ für Schüler:innen, Student:innen, Zivildiener
 - 0€ für alle unter 14 Jahren
 
 
