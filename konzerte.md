@@ -5,6 +5,8 @@ description: Konzerte des Kammerchor Innsbruck finden seit 2005 in Tirol, Salzbu
 
 # PASSIO. Ein Klangbild
 
+[![Flyer](/assets/flyer/2026-03.svg){:class="flyer"}](/assets/flyer/2026-03.svg)
+
 **Jubiläumskonzert --- 25 Jahre Kammerchor Innsbruck**
 
 Mit Uraufführungen für Saxophonquartett und Chor von Elias Praxmarer und Johannes Sprenger

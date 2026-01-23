@@ -12,6 +12,8 @@ Der Kammerchor Innsbruck sucht ab **September 2026** eine **neue musikalische Le
 
 ## PASSIO. Ein Klangbild
 
+[![Flyer](/assets/flyer/2026-03.svg){:class="flyer"}](/assets/flyer/2026-03.svg)
+
 **Jubiläumskonzert --- 25 Jahre Kammerchor Innsbruck**
 
 Mit Uraufführungen für Saxophonquartett und Chor von Elias Praxmarer und Johannes Sprenger
