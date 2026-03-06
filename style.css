@@ -228,6 +228,7 @@ img.social {
   min-width: 100px;
   max-width: 200px;
   flex: 1;
+  object-fit: contain;
 }
 
 /* ensure that floats do not leak into these elements */
