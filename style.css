@@ -225,9 +225,8 @@ img.social {
 }
 
 .sponsors img {
-  min-width: 100px;
   max-width: 200px;
-  flex: 1;
+  max-height: 100px;
   object-fit: contain;
 }
 
