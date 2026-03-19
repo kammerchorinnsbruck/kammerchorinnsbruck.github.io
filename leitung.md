@@ -1,42 +1,15 @@
 ---
 title: Leitung
-description: Christian Wegscheider ist seit 2019 der Chorleiter des Kammerchor Innsbruck.
+description: Christoph Hartmann ist der Chorleiter des Kammerchor Innsbruck.
 ---
 
 # Musikalische Leitung
-
-## Christian Wegscheider
-
-![Christian Wegscheider](/assets/christian-2024.jpg){:class="portrait" style="width:500px;"}
-
-Christian Wegscheider, geboren in Hall in Tirol, studierte *Konzertfach
-Gesang* am Tiroler Landeskonservatorium bei Univ.-Prof. Karlheinz Hanser
-und *Kinder- und Jugendchorleitung* an der Universität Mozarteum
-Salzburg u.a. bei Regina Prasser, Markus Obereder und Gerald Wirth.
-
-Er ist Pädagoge für Deutsch und Musikerziehung und Lehrbeauftragter für
-*Kinder- und Jugendstimmbildung*, *Gruppenstimmbildung* sowie für die
-Lehrveranstaltung *Gesangspraktikum* an der Universität Mozarteum
-Salzburg, Department für Musikpädagogik Innsbruck.
-
-Im Laufe seines Lebens konnte Christian Wegscheider solistisch als auch
-mit verschiedenen Ensembles auf der Bühne stehen. So sang er unter
-renommierten Dirigenten wie Howard Arman, Rene Jacobs, Konrad Junghaenel
-u. v. m., war Solist der *Capella Wilthinensis* und gemeinsam mit dem
-damaligen Stiftskapellmeister Norbert Matsch Gründer und Leiter des
-Mädchenchores *Puellae Wilthinenses*. Unzählige solistische Aufgaben
-führten ihn durch ganz Österreich wie auch in das benachbarte Ausland.
-
-Neben den sängerischen Tätigkeiten ist Christian Wegscheider ein
-gefragter Dozent bei Chorleiterkursen in Tirol, Südtirol und Vorarlberg
-und außerdem regelmäßig Lehrender bei Fortbildungen zur Kinder- und
-Jugendstimmbildung im Elementar- und Sekundarbereich.
 
 ## Christoph Hartmann
 
 ![Christoph Hartmann](/assets/christoph-2024.jpg){:class="portrait" style="height:450px;"}
 
-Christoph Hartmann stammt aus Vorarlberg und studiert Musik- und Instrumentalmusikpädagogik mit den Hauptfächern Klassischer Gesang bei der Sopranistin Vera Schoenenberg und Trompete bei Mag. Martin Patscheider sowie Inklusive Pädagogik im Master in Innsbruck. Solistisch konnte der Bariton bereits Erfahrungen am Musiktheater Vorarlberg und in diversen Vokalensembles sammeln. Im Bereich Chorleitung besuchte Christoph Fortbildungen in Vorarlberg, Tirol und Graz. Seit Herbst 2024 studiert er Dirigieren mit Schwerpunkt Chorleitung am Tiroler Landeskonservatorium. Derzeit ist er stellvertretender Chorleiter des Kammerchor Innsbruck und als Musik- sowie Inklusionspädagoge an der Musikvolksschule Allerheiligen tätig.
+Christoph Hartmann stammt aus Vorarlberg und studiert Musik- und Instrumentalmusikpädagogik mit den Hauptfächern Klassischer Gesang bei der Sopranistin Vera Schoenenberg und Trompete bei Mag. Martin Patscheider sowie Inklusive Pädagogik im Master in Innsbruck. Solistisch konnte der Bariton bereits Erfahrungen am Musiktheater Vorarlberg und in diversen Vokalensembles sammeln. Im Bereich Chorleitung besuchte Christoph Fortbildungen in Vorarlberg, Tirol und Graz. Seit Herbst 2024 studiert er Dirigieren mit Schwerpunkt Chorleitung am Tiroler Landeskonservatorium. Derzeit ist er Chorleiter des Kammerchor Innsbruck und als Musik- sowie Inklusionspädagoge an der Musikvolksschule Allerheiligen tätig.
 
 
 # Management
