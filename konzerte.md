@@ -16,6 +16,21 @@ Mit Uraufführungen für Saxophonquartett und Chor von Elias Praxmarer und Johan
 * 14.03.2026, 20 Uhr: [Pfarrkirche Untermieming](https://www.openstreetmap.org/way/161583917)
 * 15.03.2026, 17 Uhr: [Pfarrkirche Allerheiligen](https://www.openstreetmap.org/way/106569739)
 
+Programm:
+
+- Daniel Windisch (\*1994): Zeiten kommen, Zeiten gehen
+- Guillermo Lago (\*1960): Sarajewo
+- Johannes Sprenger (\*1958): Silvanus, op. 71 --- *Uraufführung*
+- Arvo Pärt (\*1935): The deer’s cry
+- Erkki-Sven Tüür (\*1959): Lamentatio
+- Augustin Franz Kropfreiter (1936-2003): Hoc corpus
+- Caroline Shaw (\*1982): and the swallow, Psalm 84
+- Hugo Distler (1908-1942): Fürwahr, er trug unsere Krankheit, op. 12 nr. 9
+- Elias Praxmarer (\*1994): Zur Passion --- *Uraufführung*  
+  Johann Nepomuk David (1895-1977): Ein Lämmlein geht und trägt die Schuld
+- Alexander K. Glazunov (1865-1936): Canzona Variee I. III. IV. V.
+- Hugo Wolf (1860-1903): Resignation aus „Sechs geistliche Lieder“ nach Gedichten von Joseph von Eichendorff
+
 Mitwirkende: [Mobilis Saxophonquartett](https://mobilis-saxophonquartett.at)
 
 Leitung: Christian Wegscheider, Christoph Hartmann
