@@ -1,4 +1,4 @@
-# Gastkonzert Männerstimmen Basel
+# Try Out Concert Männerstimmen Basel
  
 28.04.26, 20 Uhr, [Jesuitenkirche Innsbruck](https://www.openstreetmap.org/way/145110207)
  
