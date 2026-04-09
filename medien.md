@@ -3,6 +3,14 @@ title: Bilder & Hörproben
 description: Bilder und Videos von Konzerten des Kammerchor Innsbruck.
 ---
 
+# Hymns & Psalms
+
+{% include youtube.html id="6w4EdibzOtQ" title="Denn er hat seinen Engeln - Felix Mendelssohn-Bartholdy" %}
+
+{% include youtube.html id="OmNropOI7es" title="Psalm 104 - Cyrillus Kreek" %}
+
+{% include youtube.html id="Y9KDa3eP1Ic" title="Warum toben die Heiden - Felix Mendelssohn-Bartholdy" %}
+
 # Sehnsucht 2.0 --- ewiglich
 
 {% include youtube.html id="46jb3E9wvdo" title="Verlorene Jugend op. 104/4 - Johannes Brahms" %}
