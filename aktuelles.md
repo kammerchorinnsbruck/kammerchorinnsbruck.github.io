@@ -1,14 +1,3 @@
-# Try Out Concert Männerstimmen Basel
- 
-28.04.26, 20 Uhr, [Jesuitenkirche Innsbruck](https://www.openstreetmap.org/way/145110207)
- 
-Eintritt: Freiwillige Spenden
- 
-Mitwirkende:
-
-- [Männerstimmen Basel](https://maennerstimmenbasel.ch/de/)
-- Kammerchor Innsbruck
- 
 # Sonnwend
 
 Chormusik im Zeichen der längsten Tage und kürzesten Nächte des Jahres

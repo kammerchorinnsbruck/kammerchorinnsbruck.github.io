@@ -5,6 +5,15 @@ description: Konzerte des Kammerchor Innsbruck finden seit 2005 in Tirol, Salzbu
 
 {% include_relative aktuelles.md %}
 
+# Try Out Concert Männerstimmen Basel
+
+28.04.26, 20 Uhr, [Jesuitenkirche Innsbruck](https://www.openstreetmap.org/way/145110207)
+
+Mitwirkende: [Männerstimmen Basel](https://maennerstimmenbasel.ch/de/)
+
+Leitung: Christoph Hartmann
+
+
 # PASSIO. Ein Klangbild
 
 [![Flyer](/assets/flyer/2026-03.svg){:class="flyer"}](/assets/flyer/2026-03.svg)
