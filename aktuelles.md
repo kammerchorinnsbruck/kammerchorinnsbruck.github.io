@@ -1,5 +1,7 @@
 # Sonnwend
 
+[![Flyer](/assets/flyer/2026-06.jpg){:class="flyer"}](/assets/flyer/2026-06.jpg)
+
 Chormusik im Zeichen der längsten Tage und kürzesten Nächte des Jahres
  
 - 20.06.26, 17 Uhr, [Laurentiuskirche Bludenz](https://www.openstreetmap.org/way/151450451)
