@@ -5,6 +5,40 @@ description: Konzerte des Kammerchor Innsbruck finden seit 2005 in Tirol, Salzbu
 
 {% include_relative aktuelles.md %}
 
+# Sonnwend
+
+[![Flyer](/assets/flyer/2026-06.jpg){:class="flyer"}](/assets/flyer/2026-06.jpg)
+
+Chormusik im Zeichen der längsten Tage und kürzesten Nächte des Jahres
+
+- 20.06.26, 17 Uhr, [Laurentiuskirche Bludenz](https://www.openstreetmap.org/way/151450451)
+- 21.06.26, 14:30 Uhr, [Servitenkirche Innsbruck](https://www.openstreetmap.org/way/55437750)
+
+Programm:
+
+- Vytautas Miškinis: Cantate Domino
+- Daniel Windisch: Zeiten kommen, Zeiten gehen
+- Johannes Brahms: Vineta
+- Oskar Lindberg: Pingst
+- Felix Mendelssohn-Bartholdy: Die Nachtigall
+- Felix Mendelssohn-Bartholdy: Ruhethal
+- Felix Mendelssohn-Bartholdy: Jauchzet dem Herrn
+- Christian Dreo: Die Nacht
+- Ola Gjeilo: Ubi Caritas
+- Johannes Brahms: Verlorene Jugend
+- Johannes Brahms: Nachtwache 2
+- Thomas Tallis: If ye love me
+- Kate Rusby: Underneath the Stars
+- Kim André Arnesen: Even when he is silent
+- Gion Balzer Casanova: La sera sper i lag
+- Mia Makaroff: Kaiiki maat
+- Günther Mittergradnegger: Isch schun still umen See
+
+Mitwirkende: [GIOIA Chor](https://www.gioia.co.at/) (Bludenz, Vorarlberg)
+
+Leitung: Christoph Hartmann
+
+
 # Try Out Concert Männerstimmen Basel
 
 28.04.26, 20 Uhr, [Jesuitenkirche Innsbruck](https://www.openstreetmap.org/way/145110207)

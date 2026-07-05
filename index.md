@@ -5,6 +5,7 @@ description: Aktuelle Konzerttermine des Kammerchor Innsbruck.
 
 <img src="/assets/kammerchor.jpg" alt="Kammerchor Innsbruck" style="width:100%">
 
+<!--
 # Nächste Veranstaltungen
 
 {% capture included %}
@@ -12,3 +13,4 @@ description: Aktuelle Konzerttermine des Kammerchor Innsbruck.
 {% endcapture %}
 
 {{ included | markdownify | replace: '<h2', '<h3' | replace: '</h2', '</h3' }}
+-->
