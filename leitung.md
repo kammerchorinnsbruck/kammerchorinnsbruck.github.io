@@ -7,7 +7,7 @@ description: Christoph Hartmann ist der Chorleiter des Kammerchor Innsbruck.
 
 ## David Alexander Arroyabe
 
-![David Arroyabe](/assets/david-2026.jpg){:class="portrait" style="height:350px;"}
+![David Arroyabe](/assets/david-2026.jpg){:class="portrait" style="width:350px;"}
 
 [David Arroyabe](https://www.davidart.at) stammt aus Innsbruck, wo er ersten Violinunterricht an der städtischen Musikschule erhielt.
 Später führten ihn Violinstudien an die Musikhochschulen Graz und Wien.
