@@ -25,13 +25,13 @@ Spanien, Katalonien, Großbritannien, die Niederlande, Russland, Palästina, Gri
 # Organisatorische Leitung
 
 Obmann:  
-Matthias Hofer
+Matthias Hofer (Stv.: Sara Dallinger)
 
 Kassierin:  
-Lucia Moli
+Lucia Moli (Stv.: Johannes Sprenger)
 
 Schriftführer:  
-Nikolaus Wandinger
+Nikolaus Wandinger (Stv.: Magdalena Löffler)
 
 Netzmeister:  
 Michael Färber
