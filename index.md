@@ -5,6 +5,15 @@ description: Aktuelle Konzerttermine des Kammerchor Innsbruck.
 
 <img src="/assets/kammerchor.jpg" alt="Kammerchor Innsbruck" style="width:100%">
 
+# Sing mit
+
+Der Kammerchor Innsbruck freut sich über neue Sänger*innen in allen Stimmgruppen.
+Uns verbindet die Freude an hochwertiger Chormusik, das gemeinsame musikalische Arbeiten und natürlich der Spaß am Singen.
+
+Unsere Proben finden dienstags, 19:00--21:30 Uhr, im [BORG Innsbruck](https://www.openstreetmap.org/way/562015220) statt.
+
+Wenn du Lust hast, Teil unseres Chores zu werden, melde dich unter <info@kammerchorinnsbruck.at>.
+
 <!--
 # Nächste Veranstaltungen
 
