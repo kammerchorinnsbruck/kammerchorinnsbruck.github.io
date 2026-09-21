@@ -3,6 +3,18 @@ title: Bilder & Hörproben
 description: Bilder und Videos von Konzerten des Kammerchor Innsbruck.
 ---
 
+# PASSIO. Ein Klangbild
+
+{% include youtube.html id="CrqQ2PG0AgI" title="Zeiten kommen, Zeiten gehen - Daniel Windisch (*1994)" %}
+
+{% include youtube.html id="-NVZwC9DjR0" title="Resignation - Hugo Wolf" %}
+
+{% include youtube.html id="qX7GRFcT7hI" title="Menschen samma olle - Josef Hader" %}
+
+{% include youtube.html id="BJpX-3FgXXY" title="Silvanus, op 71 (Uraufführung) - Johannes Sprenger (*1958)" %}
+
+{% include youtube.html id="uT8jLb_4Uc4" title="Zur Passion (Uraufführung) - Elias Praxmarer (*1994)" %}
+
 # Hymns & Psalms
 
 {% include youtube.html id="6w4EdibzOtQ" title="Denn er hat seinen Engeln - Felix Mendelssohn-Bartholdy" %}
