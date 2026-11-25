@@ -6,9 +6,9 @@ description: Der Kammerchor Innsbruck ist ein eingetragener Verein unter Leitung
 Vereinsdaten:
 
 Name: Kammerchor Innsbruck  
-Obfrau: Christine Erlacher
+Obfrau: Matthias Hofer
 
-Bertha-von-Suttner-Weg 9  
+Fürstenweg 49a  
 6020 Innsbruck | Österreich
 
 <info@kammerchorinnsbruck.at>  
