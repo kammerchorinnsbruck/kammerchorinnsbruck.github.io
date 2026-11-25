@@ -1,0 +1,3 @@
+- 30.01.27, 18 Uhr, [Heilig-Geist-Kirche, Telfs](https://www.openstreetmap.org/way/42180872)
+- 31.01.27, 17 Uhr, [Barbara-Kirche, Fließ](https://www.openstreetmap.org/way/164931573)
+- 06.02.27, 18 Uhr, [Pfarrkirche Saggen, Innsbruck](https://www.openstreetmap.org/way/48225831)
